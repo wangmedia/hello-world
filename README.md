@@ -1,5 +1,2 @@
 # hello-world
-I'm sorry baby/<br>
-You were the sun and moon to me/<br>
-I'll never get over you/<br>
-You'll never get over me/<br>
+Repository to store various projects or snippets while learning to code JS.
